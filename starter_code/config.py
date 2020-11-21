@@ -10,7 +10,7 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgres://postgres:vindiesel3@localhost:5432/scrapy'
+SQLALCHEMY_DATABASE_URI = 'yourdatabaseurl'
 
 
 SQLALCHEMY_TRACK_MODIFICATIONS = False
